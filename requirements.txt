@@ -1,0 +1,11 @@
+# Laboratório 07 — Dependências com versões fixas para reprodutibilidade
+transformers==4.40.0
+peft==0.10.0
+trl==0.8.6
+bitsandbytes==0.43.1
+datasets==2.19.0
+accelerate==0.29.3
+openai==1.25.0
+scipy
+torch>=2.0.0
+huggingface_hub>=0.22.0
