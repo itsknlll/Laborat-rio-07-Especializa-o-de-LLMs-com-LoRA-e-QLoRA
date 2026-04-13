@@ -1,6 +1,7 @@
 # Laboratório 07 — Especialização de LLMs com LoRA e QLoRA
 
-**Disciplina:** Inteligência Artificial / LLMs  
+**Nome** Kauan Negreiros Lima
+**Disciplina:** Eletiva III 
 **Instituição:** iCEV — Instituto de Ensino Superior  
 **Domínio:** Previsões Climáticas e Meteorologia  
 **Modelo base:** `meta-llama/Llama-2-7b-hf`  
