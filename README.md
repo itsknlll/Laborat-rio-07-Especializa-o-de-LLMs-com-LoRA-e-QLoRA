@@ -115,7 +115,7 @@ ciclones, tornados, radar meteorológico, ilhas de calor, mudanças climáticas,
 
 ## Declaração de Uso de IA
 
-> **Partes geradas/complementadas com IA, revisadas por [Seu Nome].**
+> **Partes geradas/complementadas com IA, revisadas por Kauan Negreiros.**
 
 Ferramentas de IA generativa foram utilizadas como apoio para:
 - Pesquisa preliminar de boas práticas de QLoRA e hiperparâmetros
